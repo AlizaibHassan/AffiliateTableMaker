@@ -1,0 +1,197 @@
+<div class="tenb-container">
+<table class="tenb-table">
+
+<thead class="tenb-table__thead">
+<tr>
+<th class="tenb-table__thead-image">Sr. No.</th>
+<th class="tenb-table__thead-image">IMAGE</th>
+<th class="tenb-table__thead-product">Name</th>
+<th class="tenb-table__thead-product">Price</th>
+</tr>
+</thead>
+
+<tbody class="tenb-table__tbody">
+
+
+<tr class="tenb-table__tbody-row">
+
+<td class="tenb-table__column-product">
+<div>1. </div></td>
+
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">One</div>
+<img class="tenb-table__image" src="https://m.media-amazon.com/images/I/41EC4qO8wIL.jpg" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="https://www.amazon.com/dp/B0788MCRGC/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">
+<span class="tenb-table__column-title">Razer Naga Trinity</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="https://www.amazon.com/dp/B0788MCRGC/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">Best Price</a></td>
+</tr>
+
+
+<tr class="tenb-table__tbody-row">
+
+<td class="tenb-table__column-product">
+<div>2. </div></td>
+
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Two</div>
+<img class="tenb-table__image" src="https://m.media-amazon.com/images/I/31WrG8CTRHL.jpg" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="https://www.amazon.com/dp/B082G5BDNC/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">
+<span class="tenb-table__column-title">Razer Basilisk V2</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="https://www.amazon.com/dp/B082G5BDNC/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">Best Price</a></td>
+</tr>
+
+
+<tr class="tenb-table__tbody-row">
+
+<td class="tenb-table__column-product">
+<div>3. </div></td>
+
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Three</div>
+<img class="tenb-table__image" src="https://m.media-amazon.com/images/I/31qS5rAZnNL.jpg" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="https://www.amazon.com/dp/B07YPBX9Y7/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">
+<span class="tenb-table__column-title">Razer Basilisk Ultimate</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="https://www.amazon.com/dp/B07YPBX9Y7/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">Best Price</a></td>
+</tr>
+
+
+<tr class="tenb-table__tbody-row">
+
+<td class="tenb-table__column-product">
+<div>4. </div></td>
+
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Four</div>
+<img class="tenb-table__image" src="https://m.media-amazon.com/images/I/41ZcHLnffsL.jpg" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="https://www.amazon.com/dp/B07TT8G59J/?tag=btk-10b-razmo-20" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">Razer Viper</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="https://www.amazon.com/dp/B07TT8G59J/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">Best Price</a></td>
+</tr>
+
+
+<tr class="tenb-table__tbody-row">
+
+<td class="tenb-table__column-product">
+<div>5. </div></td>
+
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Fiver</div>
+<img class="tenb-table__image" src="https://m.media-amazon.com/images/I/31MH38XvIqL.jpg" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="https://www.amazon.com/dp/B084RPZD6T/?tag=btk-10b-razmo-20" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">Razer Viper Mini</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="https://www.amazon.com/dp/B084RPZD6T/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">Best Price</a></td>
+</tr>
+
+
+<tr class="tenb-table__tbody-row">
+
+<td class="tenb-table__column-product">
+<div>6. </div></td>
+
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Six</div>
+<img class="tenb-table__image" src="https://m.media-amazon.com/images/I/41JGMi9cikL.jpg" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="https://www.amazon.com/dp/B07YPC3BQC/?tag=btk-10b-razmo-20" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">Razer Viper Ultimate</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="https://www.amazon.com/dp/B07YPC3BQC/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">Best Price</a></td>
+</tr>
+
+
+<tr class="tenb-table__tbody-row">
+
+<td class="tenb-table__column-product">
+<div>7. </div></td>
+
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Seven</div>
+<img class="tenb-table__image" src="https://m.media-amazon.com/images/I/31zr+JvRNkL.jpg" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="https://www.amazon.com/dp/B07GBYYSMF/?tag=btk-10b-razmo-20" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">Razer Mamba Wireless</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="https://www.amazon.com/dp/B07GBYYSMF/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">Best Price</a></td>
+</tr>
+
+
+<tr class="tenb-table__tbody-row">
+
+<td class="tenb-table__column-product">
+<div>8. </div></td>
+
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Eight</div>
+<img class="tenb-table__image" src="https://m.media-amazon.com/images/I/31SyninWidL.jpg" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="https://www.amazon.com/dp/B08BQXL6DD/?tag=btk-10b-razmo-20" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">Razer Pro Click</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="https://www.amazon.com/dp/B08BQXL6DD/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">Best Price</a></td>
+</tr>
+
+
+<tr class="tenb-table__tbody-row">
+
+<td class="tenb-table__column-product">
+<div>9. </div></td>
+
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Nine</div>
+<img class="tenb-table__image" src="https://m.media-amazon.com/images/I/31Wephy3ucL.jpg" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="https://www.amazon.com/dp/B0744KT1TZ/?tag=btk-10b-razmo-20" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">Razer Atheris</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="https://www.amazon.com/dp/B0744KT1TZ/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">Best Price</a></td>
+</tr>
+
+
+<tr class="tenb-table__tbody-row">
+
+<td class="tenb-table__column-product">
+<div>10. </div></td>
+
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Ten</div>
+<img class="tenb-table__image" src="https://m.media-amazon.com/images/I/314e9xMJUhL.jpg" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="https://www.amazon.com/dp/B082G5SPR5/?tag=btk-10b-razmo-20" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">Razer DeathAdder V2</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="https://www.amazon.com/dp/B082G5SPR5/?tag=btk-10b-razmo-20" target="_blank" rel="nofollow noopener noreferrer">Best Price</a></td>
+</tr>
+
+</tbody>
+</table>
+</div>
